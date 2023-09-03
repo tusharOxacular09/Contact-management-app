@@ -1,0 +1,8 @@
+1. npm init is used to create a pacxkage.json file.
+2. npm i body-parser cors express mysql2 nodemon
+    - mysql2 for mySQL version 8.0
+3. Creating a schema in mySQL
+4. Connecting mySQL with our server.
+5. make an API and get the data from the database.
+6. Create a react application and install all the required libraries.
+7. If in a callback i need to call a function having some parameter so we have to return that parameterised function with the help of another function. 
